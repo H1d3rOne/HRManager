@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">心率管理器</string>
+    <string name="scan_devices">扫描设备</string>
+    <string name="stop_scan">停止扫描</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开</string>
+    <string name="start_websocket">启动WebSocket</string>
+    <string name="stop_websocket">停止WebSocket</string>
+    <string name="heart_rate">心率</string>
+    <string name="bpm">BPM</string>
+    <string name="websocket_address">WebSocket地址</string>
+    <string name="connecting">连接中...</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">未连接</string>
+    <string name="scanning">扫描中...</string>
+    <string name="no_device">未找到设备</string>
+    <string name="permission_required">需要权限</string>
+    <string name="grant_permission">授予权限</string>
+</resources>
